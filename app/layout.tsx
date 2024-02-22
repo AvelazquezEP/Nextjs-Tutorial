@@ -1,3 +1,5 @@
+// Link of the vercel project deploy
+// https://nextjs-dashboard-hazel-omega.vercel.app/
 import '@/app/ui/global.css';
 import { inter } from './ui/fonts';
 import { Metadata } from 'next';
